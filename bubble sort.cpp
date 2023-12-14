@@ -1,3 +1,6 @@
+// platform - coding ninjas
+//link - https://www.codingninjas.com/studio/problems/bubble-sort_624380?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=DISCUSS
+// concept -bubble sort
 void bubbleSort(int arr[], int n) {
   if (n == 1)
     return;
